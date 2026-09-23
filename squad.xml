@@ -1,12 +1,13 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
 
 <squad nick="sui">
-    <name>storrr</name>
+    <name>sui</name>
     <email>N/A</email>
     <web>N/A</web>
     <picture>logo.paa</picture>
-    <title>storrr</title>
+    <title>Sirius</title>
 
     <member id="76561199230095934" nick="Ten_P">
         <name>Ten_P</name>
