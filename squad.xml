@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+
+<squad nick="sui">
+    <name>storrr</name>
+    <email>N/A</email>
+    <web>N/A</web>
+    <picture>logo.paa</picture>
+    <title>storrr</title>
+
+    <member id="76561199230095934" nick="Ten_P">
+        <name>Ten_P</name>
+        <email>N/A</email>
+        <icq>N/A</icq>
+        <remark>Member</remark>
+    </member>
+</squad>
